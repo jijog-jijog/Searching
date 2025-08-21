@@ -1,4 +1,4 @@
-# Create a README.md file for the user's LeetCode sorting roadmap
+
 
 content = r"""# LeetCode Sorting Assignment – Pattern-Based Roadmap
 
