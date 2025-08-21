@@ -1,6 +1,5 @@
 
 
-content = r"""# LeetCode Sorting Assignment – Pattern-Based Roadmap
 
 This roadmap organizes your LeetCode problems **pattern-wise and in a learnable order**.  
 Solve them **in order** inside each section so the technique you learn in one problem directly helps with the next.
