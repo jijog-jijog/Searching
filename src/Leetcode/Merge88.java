@@ -3,7 +3,7 @@ package Leetcode;
 import java.util.Arrays;
 
 public class Merge88 {
-    public static void main(String[] args) 
+    public static void main(String[] args)
         int[] nums1 = {7,8,1,2,3,0,0,0};
         int m = 5;
         int[] nums2 = {2,5,6};
